@@ -4,7 +4,7 @@ Esta es una aplicación web construida únicamente con Angular como práctica pa
 
 ## 📌 Descripción
 
-**Notes App** es una lista de tareas (To-Do List) que permite al usuario crear, editar y marcar notas como completadas. El objetivo principal de este proyecto es practicar y poner en uso lo más reciente de Angular en una aplicación simple pero funcional.
+**Notes App** es una lista de tareas que permite al usuario crear, editar y marcar notas como completadas. El objetivo principal de este proyecto es practicar y poner en uso lo más reciente de Angular en una aplicación simple pero funcional.
 
 ## 🚀 Funcionalidades
 
