@@ -1,0 +1,14 @@
+<section class="notes-page">
+  <app-create-note [disable]="hasError"/>
+  @if (hasError) {
+    <h2 style="text-align: center; font-size: 2rem;">Error en la conexion</h2>
+  }@else {
+    <ul type="none">
+      @for ( note of noteService.notes; track note.id) {
+      <li><app-note-card [note]="note"></app-note-card></li>
+      }@empty {
+      <h2 style="text-align: center; font-size: 2rem;">No hay notas</h2>
+      }
+    </ul>
+  }
+</section>

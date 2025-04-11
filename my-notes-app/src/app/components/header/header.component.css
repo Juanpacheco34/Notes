@@ -1,0 +1,30 @@
+.header {
+  background-color: midnightblue;
+  text-align: center;
+  padding: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+.header * {
+  color: white;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav-list a {
+  text-decoration: none;
+  font-size: 1.4rem;
+}
+
+.nav-list a:hover {
+  color: red;
+}
+
+.nav-list a.active-link {
+  color: rgb(5, 255, 5);
+  font-weight: bold;
+
+}

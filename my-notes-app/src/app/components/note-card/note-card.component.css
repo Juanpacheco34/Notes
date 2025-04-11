@@ -1,0 +1,16 @@
+.note-card {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+
+.card-title {
+  padding: 0.5rem;
+  margin-right: 2rem;
+  width: 56%;
+}
+
+.note-card input[type="checkbox"] {
+  cursor: pointer;
+  transform: scale(2);
+}
