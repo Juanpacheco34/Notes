@@ -1,4 +1,4 @@
-# 📝 Notes App (Angular Practice)
+# 📝 Notes App (Angular)
 
 Esta es una aplicación web construida únicamente con Angular como práctica para explorar las nuevas características y mejoras del framework.
 
